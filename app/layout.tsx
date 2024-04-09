@@ -22,7 +22,7 @@ export default function RootLayout({
           <Header />
         {children}
         <footer className="footer footer-center p-4 bg-base-300 text-base-content" >
-          <p>Copyright 2023 - All right reversed by Next Amazon V2</p>
+          <p>Copyright ©️ 2023 - All right reversed by Next Amazon V2</p>
           </footer>
         </div>
         </body>
