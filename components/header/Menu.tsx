@@ -5,7 +5,7 @@ import { signIn, signOut, useSession } from 'next-auth/react'
 
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
-import { SearchBox } from "./SearchBox"
+import { SearchBox } from './SearchBox'
 
 const Menu = () => {
   const { items, init } = useCartService()

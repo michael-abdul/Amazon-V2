@@ -1,4 +1,3 @@
-import { useSession } from 'next-auth/react'
 import { auth } from '@/lib/auth'
 import Link from 'next/link'
 
